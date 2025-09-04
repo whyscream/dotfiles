@@ -1,0 +1,21 @@
+# This is Git's per-user configuration file.
+[user]
+        name = Tom Hendrikx
+        email = tom@whyscream.net
+[alias]
+	st = status
+	cm = checkout main
+	cb = checkout -b
+	ba = branch --all
+	fixup = commit --fixup
+	lga = log --graph --oneline --all --decorate
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
+[rebase]
+	autosquash = true
+[core]
+	excludesfile = /home/tom/.gitignore-globals
+[pull]
+	rebase = true

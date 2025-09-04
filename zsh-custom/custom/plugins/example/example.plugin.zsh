@@ -1,0 +1,1 @@
+/home/tom/.dotfiles/oh-my-zsh/custom/custom/plugins/example/example.plugin.zsh
