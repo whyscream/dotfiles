@@ -16,6 +16,6 @@
 [rebase]
 	autosquash = true
 [core]
-	excludesfile = /home/tom/.gitignore-globals
+	excludesfile = ~/.gitignore-globals
 [pull]
 	rebase = true
