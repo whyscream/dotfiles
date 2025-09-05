@@ -1,0 +1,4 @@
+caption always '%H:%n %c:%s %= %l'
+defutf8 on
+startup_message off
+
