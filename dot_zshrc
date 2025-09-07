@@ -83,7 +83,7 @@ path+=("$HOME/.local/bin")
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(chezmoi direnv docker git mise pip python screen uv)
+plugins=(direnv docker git mise pip python screen uv)
 
 source $ZSH/oh-my-zsh.sh
 
